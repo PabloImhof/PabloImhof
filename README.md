@@ -1,3 +1,4 @@
 - 👋 Hi, I'm Pablo Imhof
-- 🌱 Currently I'm working and learning the languages VHDL, C++, C#, JavaScript, Java, PostgreSQL, SQLServer
+- 🌱 Currently I'm working and learning the languages VHDL, C++, C#, JavaScript, Framework: ExtJS, React, Angular.
+- SGBD: Postgresql, MySQL, SqlServer.
 - 📫 How to find me @PabloImhof
