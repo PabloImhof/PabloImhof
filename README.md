@@ -2,9 +2,9 @@
 
 **`Fullstack C# .NET Developer`**
 
-Olá, me chamo Pablo Imhof, sou desenvolvedor web full stack com experiência no desenvolvimento, análise e manutenção de sistemas, com foco em soluções voltadas para a gestão pública na área da educação. Trabalho com tecnologias como **C# | .NET Core MVC | .NET Framework | NHibernate | Entity Framework | PostgreSQL | Razor | Ext.js | Angular | GitLab | GitHub**.
+Desenvolvedor web full stack com experiência no desenvolvimento, análise e manutenção de sistemas, com foco em soluções voltadas para a gestão pública na área da educação. Trabalho com tecnologias como **C# | .NET Core MVC | .NET Framework | NHibernate | Entity Framework | PostgreSQL | Razor | Ext.js | Angular | GitLab | GitHub | CI/CD | Docker | Redis**.
 
-Atualmente, trabalho na **Abase Sistemas e Soluções Ltda** e possuo formação em Engenharia de Computação e sou pós-graduando em **Desenvolvimento Full Stack pela PUCRS**.
+Possuo formação em Engenharia de Computação.
 
 ---
 
